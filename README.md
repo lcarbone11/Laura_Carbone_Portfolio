@@ -12,7 +12,7 @@
   - 
 - <b>Modeling</b>
   - 
-- <b>Data Visualiation</b>
+- <b>Data Visualization</b>
   - 
 
 <br/>
